@@ -36,8 +36,8 @@ function Cocktails() {
       <Image
         src="/images/cocktail-right-leaf.png"
         alt="r-leaf"
-        width={100}
-        height={100}
+        width={150}
+        height={150}
         id="c-right-leaf"
       />
       <div className="list">
