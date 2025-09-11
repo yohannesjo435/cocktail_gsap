@@ -29,15 +29,15 @@ function Cocktails() {
       <Image
         src="/images/cocktail-left-leaf.png"
         alt="l-leaf"
-        width={150}
-        height={150}
+        width={200}
+        height={200}
         id="c-left-leaf"
       />
       <Image
         src="/images/cocktail-right-leaf.png"
         alt="r-leaf"
-        width={150}
-        height={150}
+        width={200}
+        height={200}
         id="c-right-leaf"
       />
       <div className="list">
