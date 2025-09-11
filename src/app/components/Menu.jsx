@@ -65,8 +65,8 @@ const Menu = () => {
     <section id="menu" aria-labelledby="menu-heading">
       <Image
         src="/images/slider-left-leaf.png"
-        width={150}
-        height={150}
+        width={100}
+        height={100}
         alt="left-leaf"
         id="m-left-leaf"
       />

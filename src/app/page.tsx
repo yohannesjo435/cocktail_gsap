@@ -7,18 +7,20 @@ import Cocktails from "@/app/components/Cocktails";
 import About from "@/app/components/About";
 import Art from "@/app/components/Art";
 import Menu from "@/app/components/Menu";
+import Contact from "@/app/components/Contact";
 
 gsap.registerPlugin(ScrollTrigger, SplitText);
 
 export default function Home() {
   return (
-    <main className="pb-[1000px]">
+    <main>
       <Navbar />
       <Hero />
       <Cocktails />
       <About />
       <Art />
       <Menu />
+      <Contact />
     </main>
   );
 }
